@@ -6,4 +6,4 @@ An message sending app with many awesome features like ai. Group plans, even end
 
 ## Authors
 
-- [@adharsh](https://github.com/unknowncoder-gamer)
+- [@adharsh](https://github.com/lordgamingyt)
