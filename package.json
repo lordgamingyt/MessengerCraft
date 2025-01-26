@@ -15,7 +15,7 @@
   "dependencies": {
     "@auth/core": "0.37.0",
     "@changesets/cli": "^2.27.12",
-    "@convex-dev/auth": "^0.0.77",
+    "@convex-dev/auth": "^0.0.80",
     "@hookform/resolvers": "^3.10.0",
     "@radix-ui/react-accordion": "^1.2.2",
     "@radix-ui/react-alert-dialog": "^1.1.5",
